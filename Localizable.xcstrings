@@ -1,0 +1,37 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "👨🏻‍🚀 Crew Members" : {
+
+    },
+    "🚀 %@" : {
+
+    },
+    "🛰️ Mission Details" : {
+
+    },
+    "Close" : {
+
+    },
+    "MERKUR" : {
+
+    },
+    "planetGallery" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planet Gallery"
+          }
+        }
+      }
+    },
+    "Space Missions" : {
+
+    }
+  },
+  "version" : "1.0"
+}
